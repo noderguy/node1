@@ -1,1 +1,19 @@
-// layout css
+.input_signup{
+  margin-top: 10px;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px 5px 5px 5px;
+  border: 1px LightGrey  solid;
+}
+.submit_signup{
+  margin-top: 20px;
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 5px 5px 5px 5px;
+  border: none;
+  height: 30px;
+  cursor: pointer;
+}
+.submit_signup:hover{
+  background-color: CornflowerBlue ;
+}

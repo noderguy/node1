@@ -1,0 +1,23 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "first node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noderguy/node1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noderguy/node1/issues"
+  },
+  "homepage": "https://github.com/noderguy/node1#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
